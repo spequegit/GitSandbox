@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-zmiany z branch 1
-=======
 robimy rebase z b0
->>>>>>> do rebasu
+
