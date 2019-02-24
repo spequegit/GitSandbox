@@ -1,2 +1,2 @@
-robimy rebase z b0
+robimy rebase z b0 - zmiana po konflikcie
 
